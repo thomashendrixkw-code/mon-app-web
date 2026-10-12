@@ -1,0 +1,13 @@
+{
+  "name": "base44-generated-app",
+  "version": "1.0.0",
+  "main": "/src/index.tsx",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "lucide-react": "^0.344.0",
+    "clsx": "^2.1.0",
+    "tailwind-merge": "^2.2.1",
+    "uuid": "^9.0.1"
+  }
+}
